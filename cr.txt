@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "sites": [
+  "sites": ]
     {
       "key": "火狐",
       "name": "导航sinopacifichk.com",
@@ -21,7 +21,7 @@
       "searchable": 1,
       "快速搜索": 0,
       "filterable": 1,
-      "类别": [
+      "类别": ]
         "内地剧"
         "动作片"
         "科幻片"
@@ -48,105 +48,6 @@
         "伦理片"
       ]
     },
-{
-            "key": "花香采集资源",
-            "name": "花香 | 采集",
-            "类型": 1,
-            "api": "https://naixxzy.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "卧龙采集资源",
-            "name": "卧龙 | 采集",
-            "类型": 1,
-            "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "极速采集资源",
-            "name": "极速 | 采集",
-            "类型": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "华为采集资源",
-            "name": "华为吧 | 采集",
-            "类型": 1,
-            "api": "https://huawei8.live/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "非凡采集资源",
-            "name": "非凡 | 采集",
-            "类型": 1,
-            "api": "http://api.ffzyapi.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "旺旺采集资源",
-            "name": "旺旺短剧 | 采集",
-            "类型": 1,
-            "api": "https://api.wwzy.tv/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "量子采集资源",
-            "name": "量子 | 采集",
-            "类型": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "无忧采集资源",
-            "name": "无忧 | 采集",
-            "类型": 1,
-            "api": "https://www.wyvod.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "如意采集资源",
-            "name": "如意 | 采集",
-            "类型": 1,
-            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "九零采集资源",
-            "name": "九零 | 采集",
-            "类型": 1,
-            "api": "https://oknnews.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
-        {
-            "key": "魔抓采集资源",
-            "name": "魔抓 | 采集",
-            "类型": 1,
-            "api": "https://mozhuazy.com/api.php/provide/vod/",
-            "玩家类型": 1,
-            "可搜索的": 1,
-            "changeable": 1
-        },
          {
             "key": "追更鸭",
             "name": "追更鸭",
@@ -164,7 +65,7 @@
                 "分类": "电影$movies#电视剧$tv#动漫$comic#综艺$variety#纪录片$docmentary",
                 "分类url": "https://www.zgytv.com/{cateId}/page/{catePg}"
              }
-        },
+        }
       {
             "key": "努努影院",
             "name": "努努影院",
@@ -177,7 +78,7 @@
                 "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm",
         "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
-        },
+        }
       {"key":"努努TV","name":"沐沐影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://nnystv.cn/api.php/app/"}
       {
             "key": "秀儿影视",
@@ -206,7 +107,7 @@
                 "分类url": "https://xiuer.pro/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
              }
         }
-                 输入：                 {
+                 输入：
             "key": "麻豆传媒",
             "name": "麻豆传媒",
             "类型": 3,
@@ -281,11 +182,11 @@
                 "分类": "电影$1#电视剧$2#动漫$4","播放数组":"class=\"module-play-list\">&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a >",
                 "分类url": "https://www.999ys.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"
              }
-        },
- {    
+        }
+{    
             "key": "映播TV",
             "name": "映播TV",
-            "type": 3,
+            "类型": 3,
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
