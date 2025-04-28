@@ -1,14 +1,14 @@
 {
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
-   "spider": "https://codeberg.org/xuli/xx/raw/branch/main/lib/XBPQ.jar",
+  "壁纸": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
+   "spider": "https://gitee.com/fengmuzhu-147abov/xuli/raw/master/xbpqjar/XBPQAL.jar",
   "lives": [
     {
-      "name": "live",
+      "name": "直播",
       "url": "https://chuxinya.top/f/Y6RLuA/livecr.txt",
-      "type": 0,
-      "playerType": 1,
+      "类型": 0,
+      "玩家类型": 1,
       "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}&",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
@@ -16,60 +16,60 @@
     {
       "key": "火狐",
       "name": "导航sinopacifichk.com",
-      "type": 1,
+      "类型": 1,
       "api": "https://www.haohuaziyuan.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 0,
+      "快速搜索": 0,
       "filterable": 1,
-      "categories": [
+      "类别": [
         "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫",
+        "动作片"
+        "科幻片"
+        "战争片"
+        "喜剧片"
+        爱情片
+        "恐怖片"
+        "犯罪片"
+        "剧情片"
+        "冒险片"
+        纪录片
+        "韩剧"
+        "香港剧"
+        "台湾剧"
+        "欧美剧"
+        "日剧"
+        "马泰剧"
+        "体育赛事"
+        "综艺"
+        "动画片"
+        "中国动漫"
+        "日本动漫"
+        欧美动漫
         "伦理片"
       ]
-    },
+    }
     {
-"key": "布蕾┃星辰",
-"name": "布蕾┃星辰",
-"type": 3,
-"searchable": 1,
+"key": "布蕾┃星辰"
+"名称": "布蕾┃星辰"
+"类型": 3,
+"可搜索的": 1,
 "changeable": 1,
-"playerType": 1,
-"quickSearch": 1,
+"玩家类型": 1,
+"快速搜索": 1,
 "filterable": 1,
 "order_num": 1,
 "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
 "ext": "http://47.99.102.252/drpy_js/bulei.js"
-},
+输入：}
 {
             "key": "花香采集资源",
             "name": "花香 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://naixxzy.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
-        },
+        }
         {
             "key": "卧龙采集资源",
             "name": "卧龙 | 采集",
