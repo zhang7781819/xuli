@@ -22,11 +22,11 @@
       "快速搜索": 0,
       "filterable": 1,
       "类别": [
-        "内地剧",
+        "内地剧"
         "动作片"
         "科幻片"
         "战争片"
-        "喜剧片"
+        喜剧片
         爱情片
         "恐怖片"
         "犯罪片"
@@ -47,20 +47,7 @@
         欧美动漫
         "伦理片"
       ]
-    }
-    {
-"key": "布蕾┃星辰"
-"名称": "布蕾┃星辰"
-"类型": 3,
-"可搜索的": 1,
-"changeable": 1,
-"玩家类型": 1,
-"快速搜索": 1,
-"filterable": 1,
-"order_num": 1,
-"api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-"ext": "http://47.99.102.252/drpy_js/bulei.js"
-输入：}
+    },
 {
             "key": "花香采集资源",
             "name": "花香 | 采集",
@@ -69,111 +56,111 @@
             "玩家类型": 1,
             "可搜索的": 1,
             "changeable": 1
-        }
+        },
         {
             "key": "卧龙采集资源",
             "name": "卧龙 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "极速采集资源",
             "name": "极速 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "华为采集资源",
             "name": "华为吧 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://huawei8.live/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "非凡采集资源",
             "name": "非凡 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "http://api.ffzyapi.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "旺旺采集资源",
             "name": "旺旺短剧 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://api.wwzy.tv/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "量子采集资源",
             "name": "量子 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "无忧采集资源",
             "name": "无忧 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://www.wyvod.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "如意采集资源",
             "name": "如意 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "九零采集资源",
             "name": "九零 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://oknnews.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
         {
             "key": "魔抓采集资源",
             "name": "魔抓 | 采集",
-            "type": 1,
+            "类型": 1,
             "api": "https://mozhuazy.com/api.php/provide/vod/",
-            "playerType": 1,
-            "searchable": 1,
+            "玩家类型": 1,
+            "可搜索的": 1,
             "changeable": 1
         },
          {
             "key": "追更鸭",
             "name": "追更鸭",
-            "type": 3,
+            "类型": 3,
             "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
+            "可搜索的": 1,
+            "快速搜索": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
             "ext": {
                 "线路标题": "<b title=\"点击折叠展开\">&&</b>+class=\"mark\">&&</em>",
-                "播放数组": "class=\"eps-list\">&&</ul>",
-                "图片": "_src=\"&&\"",
-                "标题": "title=\"&&\"",
+                "播放数组": "class=\"eps-list\">&&</ul>"
+                "图片": "._src=\"&&\""
+                "标题": "title=\"&&\""
                 "分类": "电影$movies#电视剧$tv#动漫$comic#综艺$variety#纪录片$docmentary",
                 "分类url": "https://www.zgytv.com/{cateId}/page/{catePg}"
              }
@@ -181,67 +168,67 @@
       {
             "key": "努努影院",
             "name": "努努影院",
-            "type": 3,
+            "类型": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
+                "请求头": "User-Agent$MOBILE_UA"
                 "编码": "UTF-8",
                 "分类url": "https://www.nunuys.com/{cateId}{class}-{area}-{year}-{by}-{catePg}",
                 "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm",
         "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
-        }, 
-      {"key":"努努TV","name":"沐沐影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://nnystv.cn/api.php/app/"},
+        },
+      {"key":"努努TV","name":"沐沐影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://nnystv.cn/api.php/app/"}
       {
             "key": "秀儿影视",
             "name": "秀儿DJ☞|xbpq",
-            "type": 3,
+            "类型": 3,
             "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
+            "可搜索的": 1,
+            "快速搜索": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
             "ext": {
-                "简介": "style=\"display: none;\">&&</div>",
+                "简介": "style=\\"display: none;\\""><>"
 				"搜索url": "https://www.xiuer.pro/vod/search/?wd={wd}",
-				"搜索数组": "video-info&&loading",
+				"搜索数组": "视频信息&&加载",
 				"搜索标题": "title=\"&&\"",
-				"搜索副标题": ">&&</a >",
+				"搜索副标题": ">&&</a >"
 				"数组": "module-item-cover\"&&module-item\"",
 				"副标题": "module-item-text\"&&</div>",
 				"标题": "title=\"&&\"",
-				"图片": "data-src=\"&&\"",
+				"图片": "data-src=\"&&\""
 				"线路数组": "tab-item\"&&</div>",
-				"线路标题": "<span>&&</small>[替换:</span><small>>>✮更新]",
+				"线路标题": "<span>&&</small>[替换:</span><small>>>✮更新]"
 				"播放数组": "<div class=\"scroll-content\">&&</div>",
 				"播放标题": "<span>&&</span>",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#纪录片$jilupian",
+                "分类": "电影$电影#电视剧$电视剧#动漫$动漫#综艺$综艺#短剧$短剧#纪录片$纪录片",
                 "分类url": "https://xiuer.pro/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
              }
-        },
-                 {
+        }
+                 输入：                 {
             "key": "麻豆传媒",
             "name": "麻豆传媒",
-            "type": 3,
+            "类型": 3,
             "api": "csp_XBPQ",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
+                "请求头": "User-Agent$MOBILE_UA"
                 "编码": "UTF-8",
                 "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4",
                 "分类url": "http://7415ck.cc/vodtype/{cateId}/{year}/{class}/{area}/page/{catePg}.html"
             }
-        },
+        }
              {
       "key": "影视大全",
-      "name": "影视大全4",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "名称": "影视大全4",
+      "类型": 3,
+      "api": "csp_XBPQ"
       "ext": {
       "请求头": "User-Agent$MOBILE_UA",
        "编码": "UTF-8",
         "分类url": "https://www.ysdq.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}-{catePg}-{year}.html",
         "分类": "电影$1#电视剧$2#短剧$3#综艺$4#动漫$5",
-        "线路数组": "hl-tabs-btn hl-slide-swiper&&</a >",
+        "线路数组": "hl-tabs-btn hl-slide-swiper&&</a >"
         "线路标题": "nbsp;&&</a >",
         "线路标题": "🍁凯少爷🍁祝您观影愉快🍁",
         "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
