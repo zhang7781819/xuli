@@ -1,0 +1,294 @@
+{"spider":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/lib/fan.txt",
+"logo": "https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/lib/qyg15.jpg",
+"wallpaper":"https://yun.chuqiuyu.tk",
+
+"lives":[{
+           "name": "live",
+                 "type": 0,
+                     "url": "https://web.banye.tech:7777/tv/hlj.txt",
+                           "playerType": 1,
+                                 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                                       "logo": "https://epg.112114.xyz/logo/{name}.png"
+                                           
+}],
+
+"warningText":"好好学习天天向上！",
+
+"sites":[{
+            "key": "豆瓣",
+                  "name": "🌈豆瓣 | 高清",
+                        "type": 3,
+                              "api": "csp_Douban",
+                                    "searchable": 0,"jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+                                        },
+      {"key":"玩偶","name":"👽玩偶┃高清","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},                                      
+                                        
+                                        
+                                       
+                                        
+    {"key":"csp_11","name":"🍤满满┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BB%A1%E6%BB%A1%E8%B5%84%E6%BA%90","jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%BC%80%E5%BF%83%E7%BC%9D%E5%90%88"},                                     
+
+   
+   
+      
+     
+     
+        
+       
+        
+      
+      
+      
+
+
+                                        {
+                                        			"key": "瓜子",
+                                                          			"name": "🍉瓜子┃高清",
+                                                                            			"type": 3,
+                                                                                              			"api": "csp_Gz360",
+                                                                                                                			"searchable": 1,
+                                                                                                                                  			"quickSearch": 0,
+                                                                                                                                                    			"filterable": 1,
+                                                                                                                                                                      			"order_num": 0,
+                                                                                                                                                                                        			"changeable": 0,"jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+                                                                                                                                                                                                          		},
+                                                                                                                                                                              {
+            "key": "天天弹幕",
+            "name": "🦢天天┃高清",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3R0LnlzZHFqcy5jbg=="
+            },"jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+        },                                        		
+                                                                                                                                                                                                                                  	
+                                                                                                                                                                                                                                        		
+                                                                                                                                                                                                                                                    		
+                                                                                                                                                                                                                                                                		
+                                                                                                                                                                                                                                                                            		
+                                                                                                                                                                                                                                                                                        		
+
+                                                                                                                                                                                                                                                                                                    		
+                                                                                                                                                                                                                                                                                                                		
+                                                                                                                                                                                                                                                                                                                                                                       		
+                                                                                                                                                                                                                                                                                                                                                                                   		
+                                                                                                                                                                                                                                                                                                                                                                                               	
+                                                                                                                                                                                                                                                                                                                                                                                                     		
+                                                                                                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   		
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     	{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           			"key": "QIYIU",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             			"name": "🚗奇优｜高清",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               			"type": 3,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 		"changeable": 1,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             		"api": "csp_Qiyou",
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         		"playerType": "1","jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             },	
+                                                                                          {
+                     "key": "1905",
+                                 "name": "🥭1905｜高清",
+                                             "type": 3,
+                                                         "api": "csp_Web1905",
+                                                                     "searchable": 1,
+                                                                                 "quickSearch": 0,
+                                                                                             "filterable": 0,"jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+                                                                                                     },                                                                                                                                                                                                                                                                                      {"key":"drpyS_央视大全[官]","name":"🏠央央┃高清","type":4,"api":"https://zhxy.eu.org/api/央视大全[官]","searchable":1,"filterable":1,"quickSearch":0,"ext":""},                                                                                                                                                                                                                                		
+                                                                                                                                                                                                                      // {"key":"drpyS_央视大全[官]","name":"🏠央央┃高清","type":4,"api":"http://103.110.80.238:80/api/央视大全[官]","searchable":1,"filterable":1,"quickSearch":0,"ext":""},                                                                                                                                                                                                                                                                                                                                                                                                                                    	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    		
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        		
+                                                                                                    {
+            "key": "星芽短剧",
+            "name": "🦔星芽｜高清",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,"jar":"https://6509.kstore.space/%E5%A5%BD/%E5%A5%BD/%E5%AD%A6/%E4%B9%A0/%E5%A4%A9/%E5%A4%A9/%E5%90%91/%E4%B8%8A/%E5%A5%BD%E5%A5%BD%E5%AD%A6%E4%B9%A0%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/DS%E4%B8%93%E7%94%A8%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%BD%87%E6%B4%92"
+        }
+],
+
+
+
+"parses": [{"name":"超级并发","type":3,"url":"Demo"},
+
+{"name":"超级嗅探","type":3,"url":"Web"},
+{ 
+         "name": "并发", 
+         "type": 3, 
+         "url": "Demo" 
+    },{ 
+        "name": "聚合", 
+        "type": 3, 
+        "url": "Web" 
+    },
+    
+    
+    
+
+{"name":"免分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+    {
+            "name": "VIP",
+                  "type": 1,
+                        "url": "http://fengyun.yunqiji.vip/mckTX/?url="
+                            },
+                                {
+                                      "name": "顾我",
+                                            "type": 1,
+                                                  "url": "http://8.129.30.117:90/diaoyu.php?v="
+                                                      },
+                                                          {
+                                                                "name": "超级",
+                                                                      "type": 0,
+                                                                            "url": "https://jx.wiys.lol/player/ec.php?code=qw&if=1&url="
+                                                                                },
+                                                                                    {
+                                                                                          "name": "清风",
+                                                                                                "type": 1,
+                                                                                                      "url": "https://zy.qiaoji8.com/gouzi.php?url="
+                                                                                                          },
+                                                                                                              {
+                                                                                                                    "name": "清风1",
+                                                                                                                          "type": 1,
+                                                                                                                                "url": "http://1.94.221.189:88/algorithm.php?url="
+                                                                                                                                    },
+                                                                                                                                        {
+                                                                                                                                              "name": "清风2",
+                                                                                                                                                    "type": 0,
+                                                                                                                                                          "url": "https://jx.xmflv.com/?url="
+                                                                                                                                                              },
+                                                                                                                                                                  {
+                                                                                                                                                                        "name": "清风3",
+                                                                                                                                                                              "type": 0,
+                                                                                                                                                                                    "url": "https://cdn.zyc888.top/?url="
+                                                                                                                                                                                        },
+                                                                                                                                                                                            {
+                                                                                                                                                                                                  "name": "六趣",
+                                                                                                                                                                                                        "type": 1,
+                                                                                                                                                                                                              "url": "http://mf.0v.fit/api/?key=3ef5647feb0e98fdee66820efd36e2dd&url="
+                                                                                                                                                                                                                  },
+                                                                                                                                                                                                                      {
+                                                                                                                                                                                                                            "name": "虎斑",
+                                                                                                                                                                                                                                  "type": 0,
+                                                                                                                                                                                                                                        "url": " http://154.44.26.196/player/qu.php?v="
+                                                                                                                                                                                                                                            },
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                      "name": "巧技",
+                                                                                                                                                                                                                                                            "type": 1,
+                                                                                                                                                                                                                                                                  "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+                                                                                                                                                                                                                                                                      },
+                                                                                                                                                                                                                                                                          {
+                                                                                                                                                                                                                                                                                "name": "80",
+                                                                                                                                                                                                                                                                                      "type": 0,
+                                                                                                                                                                                                                                                                                            "url": "https://www.8090g.cn/jiexi/?url="
+                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                    {
+                                                                                                                                                                                                                                                                                                          "name": "m3",
+                                                                                                                                                                                                                                                                                                                "type": 0,
+                                                                                                                                                                                                                                                                                                                      "url": "https://jx.m3u8.tv/jiexi/?url="
+                                                                                                                                                                                                                                                                                                                          },
+                                                                                                                                                                                                                                                                                                                              {
+                                                                                                                                                                                                                                                                                                                                    "name": "虾米",
+                                                                                                                                                                                                                                                                                                                                          "type": 0,
+                                                                                                                                                                                                                                                                                                                                                "url": "https://jx.xmflv.cc/?url="
+                                                                                                                                                                                                                                                                                                                                                    },
+                                                                                                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                                                                                                              "name": "冰豆",
+                                                                                                                                                                                                                                                                                                                                                                    "type": 0,
+                                                                                                                                                                                                                                                                                                                                                                          "url": "https://bd.jx.cn/?url="
+                                                                                                                                                                                                                                                                                                                                                                              }
+    
+
+
+
+
+],
+        
+        
+        
+        
+    
+	
+	
+
+	
+	
+	
+  "rules": [
+    {
+      "name": "米来", 
+      "hosts": ["42.51.37.161:5678"],
+      "regex": ["#EXTINF"] },
+{
+      "name": "双十", 
+      "hosts": ["www.1010dy.cc"],
+      "regex": ["#EXTINF"] },
+    { "name": "爱酷", 
+      "hosts": ["cdn.json.icu"],
+      "regex": ["#EXTINF:1.000000,[\\s\\S]*?#EXT-X-ENDLIST"] },
+    {
+      "name": "量子广告",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡广告",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }],
+    "ads": [
+        "wan.51img1.com",
+        "iqiyi.hbuioo.com",
+        "vip.ffzyad.com",
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+    ]
+}
+
+        
+        
+    
